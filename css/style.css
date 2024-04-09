@@ -183,7 +183,7 @@
 }
 
 .rodape {
-  background-color: rgba(39, 146, 121, 0.459);
+  background-color: rgba(38, 148, 122, 0.905);
 }
 
 .contato {
@@ -191,4 +191,30 @@
   justify-content: center;
   align-items: center;
   gap: 25px;
+}
+
+.titulo{
+  width: 150px;
+  padding-top: 15px;
+}
+
+.titulo h4{
+  color: #fff;
+  font-size: 18px;
+}
+
+.maps {
+  width: 250px;
+  padding-top: 15px;
+  display: flex;
+}
+
+.maps img{
+  width: 40px;
+}
+
+.maps p{
+  color: #fff;
+  font-size: 18px;
+  padding-left: 10px;
 }
